@@ -1,0 +1,19 @@
+Prematriculado Exitosamente
+
+    ---------------------------//----------------------------
+
+    Curso: Arquitectura de aplicaciones en la nube usando AWS
+
+    Valor (COP): $8200000
+
+    Duración (horas): 40
+
+    Codigo: 0040
+
+    ---------------------------//----------------------------
+
+    Datos del interesado:
+
+    * Nombre: Jay
+
+    * Cedula: 1010101010
